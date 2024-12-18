@@ -64,7 +64,7 @@ Here are some of my favorite projects:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SahanG450&show_icons=true&theme=radical" alt="SahanG450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanG450&theme=radical" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahanG450&theme=radical" />
 </p>  
 
 ---
