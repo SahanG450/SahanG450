@@ -72,9 +72,9 @@ Here are some of my favorite projects:
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/sahan-gajanayake-856619300"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sahangajanayake450@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SahanG450"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
