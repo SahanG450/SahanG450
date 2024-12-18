@@ -14,7 +14,7 @@
 
 ## 🌟 About Me  
 
-- 🔭 I’m currently working on **[Your Current Project Name]**  
+- 🔭 I’m currently working on **-**  
 - 🌱 I’m currently learning **Python, Data Science, Machine Learning**  
 - 👨‍💻 All of my projects are available [here]([https://github.com/SahanG450])  
 - 💬 Ask me about **Python, Web Development, or Automation**  
