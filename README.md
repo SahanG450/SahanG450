@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Python, Data Science, Machine Learning**  
 - 👨‍💻 All of my projects are available [here]([https://github.com/SahanG450])  
 - 💬 Ask me about **Python, Web Development, or Automation**  
-- 📫 How to reach me: **your-email@example.com**  
+- 📫 How to reach me: **sahangajanayake450@gmail.com**  
 - ⚡ Fun fact: I love to solve puzzles and automate boring stuff!  
 
 ---
